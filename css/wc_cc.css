@@ -1,0 +1,30 @@
+
+/* ------------------------------
+Tidy up settings page
+------------------------------ */
+
+.settings_page_wc_cc #wpbody-content {
+	padding: 20px 20px 0 10px;
+	box-sizing: border-box;
+}
+
+.settings_page_wc_cc .updated.notice {
+	margin: 0 0 30px;
+}
+
+.settings_page_wc_cc p.submit {
+	margin: 15px 0 0 1px;
+}
+
+.wc-cc-options-table {
+	width: 100%;
+}
+
+.wc-cc-field-heading {
+	margin-bottom: 8px;
+}
+
+.wc-cc-codes-field {
+	width: 100%;
+	margin: 0 -2px;
+}
