@@ -20,8 +20,16 @@ Tidy up settings page
 	width: 100%;
 }
 
+.wc-cc-row {
+
+}
+
 .wc-cc-field-heading {
-	margin-bottom: 8px;
+	margin-bottom: 10px;
+}
+
+.wc-cc-field-description {
+	margin-bottom: 10px;
 }
 
 .wc-cc-codes-field {
